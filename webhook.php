@@ -6,6 +6,7 @@ $secret = "webhook";
 $path = "C:\phpStudy\PHPTutorial\WWW\weworkapi_php-master";
 // Headers deliveried from GitHub
 $signature = $_SERVER['HTTP_X_HUB_SIGNATURE'];
+file_put_contents('hook.txt', $signature);
 if ($signature) {
     $hash = "sha1=" . hash_hmac('sha1', $HTTP_RAW_POST_DATA, $secret);
     if (strcmp($signature, $hash) == 0) {
