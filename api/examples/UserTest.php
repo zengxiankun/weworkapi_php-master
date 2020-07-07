@@ -39,7 +39,7 @@ try {
   //  $api->UserCreate($user);
 
     //
-     $user = $api->UserGet("ZengXianKun");
+     $user = $api->UserGet("zhangsan");
      var_dump($user);exit;
 
     //
