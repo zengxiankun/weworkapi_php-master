@@ -1,0 +1,11 @@
+2020-07-05 18:19:22
+errCode2是：0
+sReqTimeStamp是：
+sReqNonce是：
+sReplyMsg2是：<xml><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><CreateTime>1593973162</CreateTime><MsgType><![CDATA[]]></MsgType><Content><![CDATA[我来也！]]></Content></xml>
+sEncryptMsg是：<xml>
+<Encrypt><![CDATA[28xtwLRUM9+wseYcMjSk1+6LqMBEM1xWqTWPP4jY0cNKMqhLIAvDXPhNBNLT3q7vT6YdmxQUgIHGkjvyowPn3ToEA1hRD5peCYYfC9n1oQATH5lYvRRi67odAIQLldcf3T5ai4pbuNkoIRnhj+RAX1ACs3n11+HlFPcDm6oqhHjQZ6eIvn61uR+iGhwknatXICNrnGroO3VM5MloGLn1UURgeO0KZkDXG5d9ScS7R1nDWxMbodZLizPk+IvNYPVB1NKu9l6HLAh0cNM5sJIXR1A1iF4WeHAnJ3NMUvYy6Udi7jLANQVKLUBJSlyEkKuYPVsRhKw450oEEc4gaow54Q==]]></Encrypt>
+<MsgSignature><![CDATA[08d42a8e4c2095a2c709c8b0853f76f014c4b796]]></MsgSignature>
+<TimeStamp>1593973162</TimeStamp>
+<Nonce><![CDATA[]]></Nonce>
+</xml>

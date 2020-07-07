@@ -1,0 +1,4 @@
+2020-06-28 02:14:00
+errCode2是：0
+sReplyMsg2是：<xml><ToUserName><![CDATA[ZengXianKun]]></ToUserName><FromUserName><![CDATA[wwa14bb63518c99a45]]></FromUserName><CreateTime>1593310440</CreateTime><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[你好，我是曾贤坤我2]]></Content><MsgId>308116262</MsgId><AgentID>1000002</AgentID></xml>
+sEncryptMsg是：{"Encrypt": "q5qpTQlwrNYLHELtjPl3ogUFQ2QuoQPYELmjUfssD8joD1acXk+jr3tPYc1enTobd4FHRbBRL+8yF5RbHmLBWtqf6FNbBpyy3NFmIHi0+qXPGJfy7hyisiPv0IQ0ncv2ftXZpf6uKoSm4wbDABoeL5lgL7pt244LFCeNeAQCxT8/549kFN1jUPbYAefXckoQM2QtXuZMLp/R0GUYQNLD1gTJBSwQr/rF70pvaipokAPneghYLK4W2P5QSm3d67tfIFT2nOH6mwVTFkYAsXDs1IDJhPnNgoUQRhNDcPxNUmpGe8ph64MqQlT+JnPZfbpqy4c2Ts4u778teKWkuUpeVSnnHsIvQ3dlhvoBkkwc7DHa9jhJGVuRDzEYHLLCs44d195HjOcTvG9bnWUSLuIVq6zmZ56duDMR6RdaPYVjJO39by4eFc5cIu3rSMQCfqFhDZ0SAHPCWIHHPA8Z6AxYpg==", "MsgSignature": "a17e92120b85c1ed14ce1315f2d4b4aade95fd2c", "TimeStamp": "1593310440", "Nonce": "1593151238"}

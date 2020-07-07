@@ -1,0 +1,5 @@
+消息类型是：text
+消息发送者是：ZengXianKun
+消息发送时间是:1593310440
+Event是：
+content内容是：好
